@@ -1,4 +1,2 @@
-#This is the main documentation file
-
-##Sub-heading1
-###Sub-Heading2
+# sample-app
+## This message will be shown in TechDocs
